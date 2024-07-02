@@ -12,7 +12,7 @@ language = 'en'
 # from os.path import join, dirname
 # import matplotlib.pyplot as plt
 # ^ matplotlib is great for visualising data and for testing purposes but usually not needed for production
-openai.api_key='sk-proj-I0t0UH51c4Rrq91M2Y2ZT3BlbkFJM11mxN4hgSgw9EEMZvY6'
+openai.api_key=''
 load_dotenv()
 #model = 'gpt-3.5-turbo'
 model = 'gpt-4o'
